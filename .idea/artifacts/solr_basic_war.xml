@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="solr-basic:war">
+    <output-path>$PROJECT_DIR$/solr-basic/target</output-path>
+    <root id="archive" name="com.fans.solrbasic.war">
+      <element id="artifact" artifact-name="solr-basic:war exploded" />
+    </root>
+  </artifact>
+</component>
